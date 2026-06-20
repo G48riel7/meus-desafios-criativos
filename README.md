@@ -190,6 +190,7 @@ Coleção de prompts testados, prontos para reuso em qualquer LLM (Claude, ChatG
 
 **Gabriel**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Alves-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-alves-06755822b/)
 ---
 
 ⭐ Se este repositório foi útil para você, deixa uma estrela!
